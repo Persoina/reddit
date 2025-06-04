@@ -1,9 +1,4 @@
-diff --git a//dev/null b/config.json
-index 0000000000000000000000000000000000000000..7c31dd7303124d9be42cb0d930ea8f8f4829e1b6 100644
---- a//dev/null
-+++ b/config.json
-@@ -0,0 +1,4 @@
-+{
-+  "RIGHT_WING_SUBS": ["Deutschland", "de_AltRight"],
-+  "RIGHT_WING_TERMS": ["AfD", "Identitäre Bewegung", "Pegida", "Querdenker"]
-+}
+{
+  "RIGHT_WING_SUBS": ["Deutschland", "de_AltRight"],
+  "RIGHT_WING_TERMS": ["AfD", "Identitäre Bewegung", "Pegida", "Querdenker"]
+}
