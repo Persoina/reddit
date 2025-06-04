@@ -1,0 +1,4 @@
+asyncpraw>=7.7
+python-dotenv
+streamlit
+pandas
